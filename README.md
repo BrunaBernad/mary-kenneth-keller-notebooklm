@@ -46,7 +46,7 @@ Prompt 3
 
 - Qual era a visão de  Mary Kenneth Keller sobre Inteligencia artificial e educação?
 
-R. Para Irmã Keller, a computação não era apenas um campo técnico, mas uma ferramenta essencial para a promoção de uma educação de qualidade, ela é considerada uma visionária no campo da IA por prever capacidades que só seriam plenamente desenvolvidas décadas depois, pois ela acreditava que a computação tornaria possível simular mecanicamente o processo cognitivo humano.
+R. Para Irmã Keller, a computação não era apenas um campo técnico, mas uma ferramenta essencial para uma educação de qualidade, ela é considerada uma visionária no campo da IA por prever capacidades que só seriam plenamente desenvolvidas décadas depois, pois ela acreditava que a computação tornaria possível simular mecanicamente o processo cognitivo humano.
 
 # Cicatrizes e Aprendizados
 
