@@ -1,6 +1,6 @@
 # Irmã Mary Kenneth Keller: A Pioneira da Computação Acadêmica
 
-Para este caderno temático, escolhi estudar Mary Kenneth Keller, uma das pioneiras da Ciência da Computação e uma das primeiras mulheres a obter um doutorado na área nos Estados Unidos. Além de sua atuação como cientista da computação, Mary Kenneth Keller destacou-se por defender o uso da tecnologia na educação e por contribuir para criação da linguagem de programação BASIC, tornando a computação mais acessível a estudantes e educadores.
+Para este caderno temático, escolhi estudar sobre Mary Kenneth Keller, uma das pioneiras da Ciência da Computação e uma das primeiras mulheres a obter um doutorado na área nos Estados Unidos. Além de sua atuação como cientista da computação, Mary Kenneth Keller destacou-se por defender o uso da tecnologia na educação e por contribuir para criação da linguagem de programação BASIC, tornando a computação mais acessível a estudantes e educadores.
 
 Escolhi esse tema por curiosidade e interesse pela área de tecnologia e programação,a curiosidade de conhecer personalidades "femininas" que contribuíram para a evolução da computação. Estudar sua trajetória permite compreender não apenas os avanços tecnológicos da época, mas também os desafios enfrentados pelas mulheres em áreas tradicionalmente dominadas por homens.
 
@@ -97,11 +97,11 @@ Produção Intelectual: Autora de quatro livros sobre computação e programaç�
 # Glossário de Conceitos-Chave
 
 ASCUE - Association of Small Computer Users in Education. Associação que Keller ajudou a fundar para promover o uso de computadores na educação.
-BASIC - Acrônimo para Beginner's All-purpose Symbolic Instruction Code. Linguagem de programação criada para ser simples e acessível a iniciantes, na qual Keller colaborou no desenvolvimento.
-FORTRAN - Linguagem de programação focada em modelos matemáticos, utilizada por Keller em sua tese de doutorado.
-Inferência Indutiva - Processo lógico onde se chega a uma conclusão a partir de premissas ou padrões observados. Foi o tema central da tese de doutorado de Keller aplicado a modelos computacionais.
-Irmãs de Caridade - Ordem religiosa (Sisters of Charity of the Blessed Virgin Mary) à qual Keller pertenceu.
-Projeto Lua - Iniciativa mencionada no contexto que visa inspirar mulheres a buscarem conhecimentos em TIC (Tecnologias de Informação e Comunicação) e ciências, citando Keller como exemplo.
+*BASIC - Acrônimo para Beginner's All-purpose Symbolic Instruction Code. Linguagem de programação criada para ser simples e acessível a iniciantes, na qual Keller colaborou no desenvolvimento.
+*FORTRAN - Linguagem de programação focada em modelos matemáticos, utilizada por Keller em sua tese de doutorado.
+*Inferência Indutiva - Processo lógico onde se chega a uma conclusão a partir de premissas ou padrões observados. Foi o tema central da tese de doutorado de Keller aplicado a modelos computacionais.
+*Irmãs de Caridade - Ordem religiosa (Sisters of Charity of the Blessed Virgin Mary) à qual Keller pertenceu.
+*Projeto Lua - Iniciativa mencionada no contexto que visa inspirar mulheres a buscarem conhecimentos em TIC (Tecnologias de Informação e Comunicação) e ciências, citando Keller como exemplo.
 
 
 # Prompts Reutilizáveis para Revisão e Estudo
